@@ -36,5 +36,6 @@ Run the following launch to see how the assembly is done:
 ros2 launch
 ```
 
-**3D Mapping Outdoor using this package**
+Let'see an application of this package:
+
 ![3D Mapping Reconstruction](./images/reconstruction.png)
